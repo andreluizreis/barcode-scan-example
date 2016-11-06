@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BarcodeDetect</string>
+    <string name="title_activity_face_tracker">FaceTrackerActivity</string>
+</resources>
